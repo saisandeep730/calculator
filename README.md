@@ -1,32 +1,106 @@
-# Calculator
+# 🧮 Calculator
 
-Welcome to the Web Calculator project! This is a simple web calculator that allows you to perform basic mathematical operations, including addition, subtraction, multiplication, and division. It also accepts decimal numbers for more precise calculations. The calculator's interface is divided into two parts: the upper display shows the ongoing operations, while the lower display shows the current number being entered. Additionally, if a result of an operation is too long, the calculator will truncate it to fit the display.
+A clean, responsive, and user-friendly calculator built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project performs basic arithmetic operations, supports keyboard input, and provides a smooth user experience with a modern interface.
 
-## Features
+---
 
-- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
-- Support for decimal numbers to handle more precise calculations.
-- Upper display shows the sequence of operations being performed.
-- Lower display shows the current number being entered.
-- Result truncation for long operation outputs to fit the display.
-- Delete button to remove a single digit in case of a misinput.
-- Clear button to remove all digits and reset the calculator.
-- Keyboard support for easy input without having to click the web buttons.
+## ✨ Features
 
-## Demo
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 Decimal number support
+- ⌨️ Keyboard shortcuts
+- 🗑️ Delete the last entered digit
+- ♻️ Clear all calculations
+- 📱 Responsive design
+- 📺 Two-line display for better readability
+- 🚫 Division by zero handling
+- ⚡ Fast and lightweight
 
-You can try out the live demo of the calculator [here](https://saneep678.github.io/Caluculator/).
+---
 
-## Keyboard Shortcuts
+## 🚀 Live Demo
 
-The calculator supports the following keyboard shortcuts for quick and efficient calculations:
+> Add your live demo link here after deployment.
 
-- **Number keys (0-9)**: Enter digits using your keyboard to input numbers.
-- **Decimal Point (.)**: Use the period key to input decimal numbers.
-- **Addition (+)**: Press the plus key (+) to perform addition.
-- **Subtraction (-)**: Press the minus key (-) to perform subtraction.
-- **Multiplication (\*)**: Press the asterisk key (*) to perform multiplication.
-- **Division (/)**: Press the forward slash key (/) to perform division.
-- **Equal (=)**: Press Enter or the equal sign (=) to display the result of the calculation.
-- **Delete (DEL or Backspace)**: Press the delete key to remove a single digit.
-- **Clear (C)**: Press the escape key or the letter 'C' to clear all digits and reset the calculator.
+```
+https://your-demo-link.com
+```
+
+---
+
+## 🛠️ Built With
+
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚙️ Vanilla JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+Calculator/
+│
+├── index.html
+├── style.css
+├── operate.js
+└── README.md
+```
+
+---
+
+## ⌨️ Keyboard Shortcuts
+
+| Key | Action |
+|------|--------|
+| 0 - 9 | Numbers |
+| + | Addition |
+| - | Subtraction |
+| * | Multiplication |
+| / | Division |
+| . | Decimal |
+| Enter / = | Calculate |
+| Backspace | Delete |
+| C | Clear |
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/calculator.git
+```
+
+Navigate to the project
+
+```bash
+cd calculator
+```
+
+Open **index.html** in your preferred browser.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Sunny**
+
+GitHub: https://github.com/saisandeep730
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
+
+Happy Coding! 🚀
