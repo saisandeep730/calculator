@@ -23,11 +23,7 @@ A clean, responsive, and user-friendly calculator built using **HTML**, **CSS**,
 
 ## 🚀 Live Demo
 
-> Add your live demo link here after deployment.
-
-```
-(https://saisandeep730.github.io/calculator/)
-```
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-blue?style=for-the-badge)](https://saisandeep730.github.io/calculator/)
 
 ---
 
