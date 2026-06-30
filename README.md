@@ -26,7 +26,7 @@ A clean, responsive, and user-friendly calculator built using **HTML**, **CSS**,
 > Add your live demo link here after deployment.
 
 ```
-https://your-demo-link.com
+(https://saisandeep730.github.io/calculator/)
 ```
 
 ---
